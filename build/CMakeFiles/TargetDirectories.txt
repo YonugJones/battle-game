@@ -1,0 +1,3 @@
+/Users/peterkerfoot/repos/c++/battle-game/build/CMakeFiles/battle.dir
+/Users/peterkerfoot/repos/c++/battle-game/build/CMakeFiles/edit_cache.dir
+/Users/peterkerfoot/repos/c++/battle-game/build/CMakeFiles/rebuild_cache.dir
